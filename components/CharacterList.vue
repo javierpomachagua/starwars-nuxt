@@ -1,6 +1,6 @@
 <template>
-  <div v-if="characters" class="flex justify-center flex-wrap items-center p-20">
-    <div class="w-1/3 h-6 px-10" v-for="(character, index) in characters" :key="index">
+  <div class="flex flex-wrap">
+    <div class="w-full md:w-1/2 lg:w-1/3 px-3 py-5" v-for="(character, index) in characters" :key="index">
       <Character :character="character"></Character>
     </div>      
   </div>

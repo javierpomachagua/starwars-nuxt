@@ -13,6 +13,7 @@ export default {
     TheHeader
   },
   head: {
+    title: 'Star Wars Personajes',
     bodyAttrs: {
       class: 'bg-gray-300 font-indie-flower'
     }
