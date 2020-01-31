@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Darth Vader",
+        "path": "c1.jpg",
+        "description": "En un intento de salvar la vida de Amidala y sus hijos no nacidos, Skywalker se pasó al lado oscuro de la Fuerza y traicionó a los Jedi sometiéndose a las enseñanzas de su antiguo confidente y amigo, el Canciller Supremo Sheev Palpatine — la faceta pública del Señor Oscuro ayuda de Vader, Palpatine declaró el fin de la guerra, destruyó a la Orden Jedi y se proclamó a sí mismo Emperador Galáctico."
+    },
+    {
+        "name": "Obi Wan Kenobi",
+        "path": "c2.jpg",
+        "description": "Nacido en el planeta Stewjon, Kenobi fue tomado como el aprendiz Padawan de Qui-Gon Jinn. Durante la Invasión de Naboo, Obi-Wan se convirtió en el primer Jedi en un milenio en derrotar a un Lord Sith, cuando derrotó a Darth Maul durante la Batalla de Naboo. Durante la batalla, Jinn fue mortalmente herido por  Maul y pereció en los brazos de Kenobi. A petición de Qui-Gon, Kenobi tomó a Anakin Skywalker como su Padawan, entrenándolo durante la década que precedió a las Guerras Clon."
+    }
+]
