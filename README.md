@@ -1,4 +1,4 @@
-# pets
+# Star Wars Characters
 
 > My primo Nuxt.js project
 
